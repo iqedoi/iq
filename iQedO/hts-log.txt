@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Feb 2023 19:27:51 at https://oneopen7.com/cards/sords.php?id=232 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://oneopen7.com/cards/sords.php?id=232* +*https://oneopen7.com/cards/sords.php?id=232*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://oneopen7.com/cards/sords.php?id=232 -O1 "C:\Users\adelawad\Desktop\myNewWebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://oneopen7.com/cards/sords.php?id=232* +*https://oneopen7.com/cards/sords.php?id=232* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTW23-Medium.woff?f9bf9a5f50720c8c4dca70b7110e4a2b (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTW23-Medium.eot?8a2090335a1bf5a2648af29a993f6f90 (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTW23-Medium.ttf?22c9874c24b995a0c881e7cc2445cebf (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTArabic-Bold.woff2?a90e040b5e058497a80b27ed66609eba (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTArabic-Bold.woff?83737cb13ef0f530c0d18e15a0aac1fb (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/DINNextLTArabic-Bold.ttf?24421421e9210a40c31dda3d7d47995a (from https://oneopen7.com/cards/css/default.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.eot (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.eot? (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.woff2 (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.woff (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.ttf (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/fonts/glyphicons-halflings-regular.svg (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/images/login_cover.jpg (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/owl.video.play.png (from https://oneopen7.com/cards/css/themes.css?v=1)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/ajax-loader.gif (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/fonts/slick.eot (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/fonts/slick.eot? (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/fonts/slick.woff (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/fonts/slick.ttf (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/css/fonts/slick.svg (from https://oneopen7.com/cards/css/slick-theme.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/images/dropdown-arrow.svg (from https://oneopen7.com/cards/css/main.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/images/quote.svg (from https://oneopen7.com/cards/css/main.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/cards/images/hot.svg (from https://oneopen7.com/cards/css/main.css)
+19:28:04	Error: 	"Not Found" (404) at link https://oneopen7.com/default/assets/images/avatar_male.png (from https://oneopen7.com/cards/css/main.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 41 links scanned, 16 files written (1180118 bytes overall) [1198330 bytes received at 92179 bytes/sec], 10.2 requests per connection
+(24 errors, 0 warnings, 0 messages)
